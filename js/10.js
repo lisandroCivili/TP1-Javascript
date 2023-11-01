@@ -8,4 +8,4 @@ if (numero%2 === 0) {
     document.write(`${numero} es divisible por 5`);
 }else if (numero%7 === 0) {
     document.write(`${numero} es divisible por 7`);
-}
+} 
